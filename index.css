@@ -44,3 +44,6 @@
     #6a94b0,#7c9ab1,#7c9ab1,#92a2b0,#92a2b0,#b5adb0,#b5adb0,
     #c7b3af,#d0b6af,#d0b6af,#d0b6af,#facfbb,#facfbb,#fbd8c8,#fbd8c8,#fbd8c8,#fbd8c8,#f9cdb9,#fbd8c8,#f9cdb9);
 }
+.icons:hover{
+    color: aqua;
+}
