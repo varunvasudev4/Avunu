@@ -1,0 +1,46 @@
+.bg1,.dl:hover{
+    background-color: #032251;
+}
+
+.icon1 {
+    color: white;
+}
+
+.dl {
+    font-weight: 600;
+}
+
+.tm {
+    margin-top: -700px;
+}
+
+.tmb {
+    font-weight: 600;
+}
+
+.mtcu {
+    margin-top: 250px;
+}
+
+.mtcu:hover {
+    background-color: #4f8ac3;
+    color: white;
+    transform: scale(1.1, 1.1);
+}
+
+.spring {
+    margin-top: 90px;
+    background-color: bisque;
+    padding: 100px;
+}
+
+.springbtn:hover {
+    color: #032251;
+    transform: scale(1.1, 1.1);
+}
+
+.tpj {
+    background-image: linear-gradient(to bottom right, #283138, #354f6f, #283138, #354f6f, #3c5f78, #3c5f78, #3c5f78,#294a62,#3c5f78,#3c5f78,
+    #6a94b0,#7c9ab1,#7c9ab1,#92a2b0,#92a2b0,#b5adb0,#b5adb0,
+    #c7b3af,#d0b6af,#d0b6af,#d0b6af,#facfbb,#facfbb,#fbd8c8,#fbd8c8,#fbd8c8,#fbd8c8,#f9cdb9,#fbd8c8,#f9cdb9);
+}
